@@ -1,0 +1,44 @@
+[
+  {
+    "contactOverflow": false,
+    "content": 1585,
+    "servicesTitleWidth": 298.7375183105469,
+    "viewport": 1600
+  },
+  {
+    "contactOverflow": false,
+    "content": 1425,
+    "servicesTitleWidth": 298.7375183105469,
+    "viewport": 1440
+  },
+  {
+    "contactOverflow": false,
+    "content": 1265,
+    "servicesTitleWidth": 273.8374938964844,
+    "viewport": 1280
+  },
+  {
+    "contactOverflow": false,
+    "content": 1009,
+    "servicesTitleWidth": 273.8374938964844,
+    "viewport": 1024
+  },
+  {
+    "contactOverflow": false,
+    "content": 753,
+    "servicesTitleWidth": 273.8374938964844,
+    "viewport": 768
+  },
+  {
+    "contactOverflow": false,
+    "content": 375,
+    "servicesTitleWidth": 203.3125,
+    "viewport": 390
+  },
+  {
+    "contactOverflow": false,
+    "content": 305,
+    "servicesTitleWidth": 182.5625,
+    "viewport": 320
+  }
+]
